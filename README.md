@@ -16,4 +16,6 @@
 | 8 | Machine Learning Engineering for Production (MLOps) Specialization | https://bit.ly/3IXmYmz |
 | 9 | Microsoft Azure Fundamentals Certification Course (AZ-900) | https://bit.ly/3v1n6f5 |
 | 10 | TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial | https://bit.ly/3OppeE8 |
+| 11 | Deploying production ML models with TensorFlow Serving overview | https://bit.ly/3b4sdnW |
+| 12 | Schedule Python Scripts with GitHub Actions FOR FREE | https://bit.ly/3J6S7Ek|
 
